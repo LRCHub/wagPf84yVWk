@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "OMG",
+  "base_artist": "SUSHIBOYS",
+  "createdAt": "2025-12-24T12:53:58.386922Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OMG (Oh My God)",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/01_OMG_(Oh_My_God)_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OMG (Oh My God)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/02_OMG_(Oh_My_God)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Omg",
+      "artist": "Ceo",
+      "has_synced": false,
+      "path": "select/03_Omg_Ceo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Was You (OMG)",
+      "artist": "Far East Movement feat. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/04_If_I_Was_You_(OMG)_Far_East_Movement_feat._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Was You (OMG) (Ft. Snoop Dogg)",
+      "artist": "Far East Movement",
+      "has_synced": true,
+      "path": "select/05_If_I_Was_You_(OMG)_(Ft._Snoop_Dogg)_Far_East_Movement.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Omg (Mixed)",
+      "artist": "Camila Cabello feat. Quavo",
+      "has_synced": false,
+      "path": "select/06_Omg_(Mixed)_Camila_Cabello_feat._Quavo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OMG",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/07_OMG_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Omg (Anki Remix)",
+      "artist": "Gryffin feat. Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/08_Omg_(Anki_Remix)_Gryffin_feat._Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Omg (MOTi Remix)",
+      "artist": "Gryffin feat. Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/09_Omg_(MOTi_Remix)_Gryffin_feat._Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "OMG (Instrumental)",
+      "artist": "RL Grime",
+      "has_synced": false,
+      "path": "select/10_OMG_(Instrumental)_RL_Grime.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "OMG",
+      "artist": "RL Grime feat. Joji & Chief Keef",
+      "has_synced": true,
+      "path": "select/11_OMG_RL_Grime_feat._Joji_&_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "OMG (feat. Chief Keef & Joji)",
+      "artist": "RL Grime",
+      "has_synced": true,
+      "path": "select/12_OMG_(feat._Chief_Keef_&_Joji)_RL_Grime.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "OMG",
+      "artist": "Amplifier",
+      "has_synced": true,
+      "path": "select/13_OMG_Amplifier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "OMG Ponnu (From \"Sarkar (Tamil)\")",
+      "artist": "Sid Sriram feat. Jonita Gandhi",
+      "has_synced": true,
+      "path": "select/14_OMG_Ponnu_(From__Sarkar_(Tamil)_)_Sid_Sriram_feat._Jonita_Gandhi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "OMG Ponnu",
+      "artist": "Sid Sriram, Jonita Gandhi",
+      "has_synced": true,
+      "path": "select/15_OMG_Ponnu_Sid_Sriram,_Jonita_Gandhi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "OMG (feat. will.i.am)",
+      "artist": "Usher, will.i.am",
+      "has_synced": true,
+      "path": "select/16_OMG_(feat._will.i.am)_Usher,_will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Omg",
+      "artist": "White Gangster",
+      "has_synced": true,
+      "path": "select/17_Omg_White_Gangster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OMG",
+      "artist": "SUSHIBOYS",
+      "has_synced": false,
+      "path": "select/pl_01_OMG_SUSHIBOYS.txt"
+    }
+  ]
+}
